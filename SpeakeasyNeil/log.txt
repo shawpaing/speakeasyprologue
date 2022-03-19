@@ -1,0 +1,184 @@
+Tue Mar 15 16:50:36 2022
+Windows-10-10.0.19041
+Ren'Py 7.5.0.22030403n
+ 
+
+Bootstrap to the start of init.init took 0.10s
+Early init took 0.00s
+Loader init took 0.12s
+Loading error handling took 0.05s
+Loading script took 0.42s
+Loading save slot metadata. took 0.18s
+Loading persistent took 0.00s
+Faled to initialize steam: WindowsError(126, 'The specified module could not be found')
+Running init code took 0.13s
+Loading analysis data took 0.04s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\shawp\\AppData\\Roaming/RenPy/backups\\SpeakeasyNeil':
+Dump and make backups. took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.45s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.06s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.21s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2400, 1350)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 511.79'
+Display Info: None
+Screen sizes: virtual=(1600, 900) physical=(1033, 581) drawable=(1033, 581)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 36.44s
+Early init took 0.00s
+Loader init took 0.04s
+Loading error handling took 0.02s
+Loading script took 0.36s
+Loading save slot metadata. took 0.04s
+Loading persistent took 0.00s
+Faled to initialize steam: WindowsError(126, 'The specified module could not be found')
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\shawp\\AppData\\Roaming/RenPy/backups\\SpeakeasyNeil':
+Dump and make backups. took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.45s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2400, 1350)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 511.79'
+Display Info: None
+Screen sizes: virtual=(1600, 900) physical=(1031, 580) drawable=(1031, 580)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 50.40s
+Early init took 0.00s
+Loader init took 0.05s
+Loading error handling took 0.02s
+Loading script took 0.49s
+Loading save slot metadata. took 0.05s
+Loading persistent took 0.00s
+Faled to initialize steam: WindowsError(126, 'The specified module could not be found')
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\shawp\\AppData\\Roaming/RenPy/backups\\SpeakeasyNeil':
+Dump and make backups. took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.35s
+Cleaning stores took 0.00s
+Init translation took 0.10s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.05s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2400, 1350)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 511.79'
+Display Info: None
+Screen sizes: virtual=(1600, 900) physical=(1030, 579) drawable=(1030, 579)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 62.94s
+Early init took 0.00s
+Loader init took 0.06s
+Loading error handling took 0.02s
+Loading script took 0.37s
+Loading save slot metadata. took 0.04s
+Loading persistent took 0.00s
+Faled to initialize steam: WindowsError(126, 'The specified module could not be found')
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\shawp\\AppData\\Roaming/RenPy/backups\\SpeakeasyNeil':
+Dump and make backups. took 0.08s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.36s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2400, 1350)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 511.79'
+Display Info: None
+Screen sizes: virtual=(1600, 900) physical=(1029, 579) drawable=(1029, 579)
+Maximum texture size: 4096x4096

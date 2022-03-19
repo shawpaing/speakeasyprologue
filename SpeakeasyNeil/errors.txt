@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 871: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    if dress == "normal":
+    ^
+
+File "game/script.rpy", line 873: expected statement.
+    else:
+        ^
+
+Ren'Py Version: Ren'Py 7.5.0.22030403n
+Mon Mar 14 23:42:45 2022

@@ -1,0 +1,475 @@
+SigmarOne-Regular.ttf
+characters.rpy
+characters.rpyc
+gui.rpy
+gui.rpyc
+imagemaster.rpy
+imagemaster.rpyc
+menu.rpy
+menu.rpyc
+options.rpy
+options.rpyc
+screens.rpy
+screens.rpyc
+script.rpy
+script.rpyc
+splash.png
+splashscreen.rpy
+splashscreen.rpyc
+cache\bytecode.rpyb
+cache\py3analysis.rpyb
+cache\pyanalysis.rpyb
+cache\screens.rpyb
+cache\shaders.txt
+gui\frame.png
+gui\game_menu.png
+gui\main_menu.png
+gui\namebox.png
+gui\notify.png
+gui\nvl.png
+gui\skip.png
+gui\textbox.png
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\left.png
+gui\bar\right.png
+gui\bar\top.png
+gui\button\check_foreground.png
+gui\button\check_selected_foreground.png
+gui\button\choice_hover_background.png
+gui\button\choice_idle_background.png
+gui\button\hover_background.png
+gui\button\idle_background.png
+gui\button\quick_hover_background.png
+gui\button\quick_idle_background.png
+gui\button\radio_foreground.png
+gui\button\radio_selected_foreground.png
+gui\button\slot_hover_background.png
+gui\button\slot_idle_background.png
+gui\ls\edit_name.png
+gui\ls\menu_button.png
+gui\ls\menu_side.png
+gui\ls\sidebar.png
+gui\overlay\confirm.png
+gui\overlay\game_menu.png
+gui\overlay\main_menu.png
+gui\phone\nvl.png
+gui\phone\textbox.png
+gui\phone\bar\bottom.png
+gui\phone\bar\left.png
+gui\phone\bar\right.png
+gui\phone\bar\top.png
+gui\phone\button\check_foreground.png
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\choice_hover_background.png
+gui\phone\button\choice_idle_background.png
+gui\phone\button\hover_background.png
+gui\phone\button\idle_background.png
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_idle_background.png
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\main_menu.png
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_thumb.png
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_thumb.png
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_thumb.png
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_thumb.png
+images\card_free.png
+images\card_free.webp
+images\card_heart.png
+images\card_heart.webp
+images\bg\bar.png
+images\bg\car_street.png
+images\bg\dance.png
+images\bg\gladius_day.png
+images\bg\gladius_night.png
+images\bg\hospital_hallway.png
+images\bg\house_day.png
+images\bg\house_night.png
+images\bg\icebox_entrance.png
+images\bg\icebox_entrance_peep.png
+images\bg\infirmary_day.png
+images\bg\infirmary_night.png
+images\bg\living_day.png
+images\bg\living_night.png
+images\bg\room_day.png
+images\bg\room_night.png
+images\bg\station_st.png
+images\bg\store_day.png
+images\bg\store_night.png
+images\bg\train_station.png
+images\cg\cliff_prologue.png
+images\cg\doneil_prologue.png
+images\cg\dress15.png
+images\cg\elliot_prologue.png
+images\cg\gerald_prologue.png
+images\cg\julfia_prologue.png
+images\cg\vince_prologue.png
+images\characters\andrew\andrew angry.png
+images\characters\andrew\andrew grin.png
+images\characters\andrew\andrew smile.png
+images\characters\andrew\andrew.png
+images\characters\bailey\bailey angry.png
+images\characters\bailey\bailey distaste.png
+images\characters\bailey\bailey smile.png
+images\characters\bailey\bailey.png
+images\characters\charlie\charlie frown.png
+images\characters\charlie\charlie sick frown.png
+images\characters\charlie\charlie sick smile.png
+images\characters\charlie\charlie sick.png
+images\characters\charlie\charlie smile.png
+images\characters\charlie\charlie.png
+images\characters\cleo\cleo blush.png
+images\characters\cleo\cleo smile.png
+images\characters\cleo\cleo.png
+images\characters\cliff\cliff p1 angry.png
+images\characters\cliff\cliff p1 grin.png
+images\characters\cliff\cliff p1 sad.png
+images\characters\cliff\cliff p1 serious.png
+images\characters\cliff\cliff p1 smile.png
+images\characters\cliff\cliff p1 smirk.png
+images\characters\cliff\cliff p1.png
+images\characters\cliff\cliff p2 angry.png
+images\characters\cliff\cliff p2 grin.png
+images\characters\cliff\cliff p2 sad.png
+images\characters\cliff\cliff p2 serious.png
+images\characters\cliff\cliff p2 smile.png
+images\characters\cliff\cliff p2 smirk.png
+images\characters\cliff\cliff p2.png
+images\characters\cliff\cliff p3 angry.png
+images\characters\cliff\cliff p3 grin.png
+images\characters\cliff\cliff p3 sad.png
+images\characters\cliff\cliff p3 serious.png
+images\characters\cliff\cliff p3 smile.png
+images\characters\cliff\cliff p3 smirk.png
+images\characters\cliff\cliff p3.png
+images\characters\cliff\cliff p4 angry.png
+images\characters\cliff\cliff p4 grin.png
+images\characters\cliff\cliff p4 sad.png
+images\characters\cliff\cliff p4 serious.png
+images\characters\cliff\cliff p4 smile.png
+images\characters\cliff\cliff p4 smirk.png
+images\characters\cliff\cliff p4.png
+images\characters\donovan\donovan p1 angry.png
+images\characters\donovan\donovan p1 blush.png
+images\characters\donovan\donovan p1 pursesmirk.png
+images\characters\donovan\donovan p1 serious.png
+images\characters\donovan\donovan p1 smirk.png
+images\characters\donovan\donovan p1 surprise.png
+images\characters\donovan\donovan p1.png
+images\characters\donovan\donovan p2 angry.png
+images\characters\donovan\donovan p2 blush.png
+images\characters\donovan\donovan p2 pursesmirk.png
+images\characters\donovan\donovan p2 serious.png
+images\characters\donovan\donovan p2 smirk.png
+images\characters\donovan\donovan p2 surprise.png
+images\characters\donovan\donovan p2.png
+images\characters\donovan\donovan uniform.png
+images\characters\elliot\elliot p1 beam.png
+images\characters\elliot\elliot p1 glance.png
+images\characters\elliot\elliot p1 grin.png
+images\characters\elliot\elliot p1 hat grin.png
+images\characters\elliot\elliot p1 irritated.png
+images\characters\elliot\elliot p1 sad.png
+images\characters\elliot\elliot p1 sideways.png
+images\characters\elliot\elliot p1 smile.png
+images\characters\elliot\elliot p1 surprised.png
+images\characters\elliot\elliot p2 beam.png
+images\characters\elliot\elliot p2 glance.png
+images\characters\elliot\elliot p2 grin.png
+images\characters\elliot\elliot p2 hat grin.png
+images\characters\elliot\elliot p2 irritated.png
+images\characters\elliot\elliot p2 sad.png
+images\characters\elliot\elliot p2 sideways.png
+images\characters\elliot\elliot p2 smile.png
+images\characters\elliot\elliot p2 surprised.png
+images\characters\gerald\gerald p1 angry.png
+images\characters\gerald\gerald p1 hat pout.png
+images\characters\gerald\gerald p1 hat sideways.png
+images\characters\gerald\gerald p1 hat smile.png
+images\characters\gerald\gerald p1 pout.png
+images\characters\gerald\gerald p1 sad.png
+images\characters\gerald\gerald p1 sideways.png
+images\characters\gerald\gerald p1 smile.png
+images\characters\gerald\gerald p1 surprised.png
+images\characters\gerald\gerald p1 wink.png
+images\characters\gerald\gerald p1.png
+images\characters\gerald\gerald p2 angry.png
+images\characters\gerald\gerald p2 hat pout.png
+images\characters\gerald\gerald p2 hat sideways.png
+images\characters\gerald\gerald p2 hat smile.png
+images\characters\gerald\gerald p2 pout.png
+images\characters\gerald\gerald p2 sad.png
+images\characters\gerald\gerald p2 sideways.png
+images\characters\gerald\gerald p2 smile.png
+images\characters\gerald\gerald p2 surprised.png
+images\characters\gerald\gerald p2 wink.png
+images\characters\gerald\gerald p2.png
+images\characters\julius\julius p1 angry.png
+images\characters\julius\julius p1 sad teeth.png
+images\characters\julius\julius p1 sideways.png
+images\characters\julius\julius p1 smile.png
+images\characters\julius\julius p1 smirk.png
+images\characters\julius\julius p1 surprised.png
+images\characters\julius\julius p1.png
+images\characters\julius\julius p2 angry.png
+images\characters\julius\julius p2 card angry.png
+images\characters\julius\julius p2 card sad teeth.png
+images\characters\julius\julius p2 card sideways.png
+images\characters\julius\julius p2 card smile.png
+images\characters\julius\julius p2 card smirk.png
+images\characters\julius\julius p2 card surprised.png
+images\characters\julius\julius p2 card.png
+images\characters\julius\julius p2 sad teeth.png
+images\characters\julius\julius p2 sideways.png
+images\characters\julius\julius p2 smile.png
+images\characters\julius\julius p2 smirk.png
+images\characters\julius\julius p2 surprised.png
+images\characters\julius\julius p2.png
+images\characters\june\june grin.png
+images\characters\june\june.png
+images\characters\louis\louis angry.png
+images\characters\louis\louis sad.png
+images\characters\louis\louis smile.png
+images\characters\louis\louis.png
+images\characters\me\me nhprol angry.png
+images\characters\me\me nhprol irritated.png
+images\characters\me\me nhprol sideways.png
+images\characters\me\me nhprol smile.png
+images\characters\me\me nhprol surprised.png
+images\characters\me\me nhprol worried.png
+images\characters\me\me nhprol.png
+images\characters\me\me nhprol2 angry.png
+images\characters\me\me nhprol2 irritated.png
+images\characters\me\me nhprol2 sad.png
+images\characters\me\me nhprol2 sideways.png
+images\characters\me\me nhprol2 smile.png
+images\characters\me\me nhprol2 surprised.png
+images\characters\me\me nhprol2 worried.png
+images\characters\me\me nhprol2.png
+images\characters\me\me prol irritated.png
+images\characters\me\me prol sideways.png
+images\characters\me\me prol smile.png
+images\characters\me\me prol surprised.png
+images\characters\me\me prol worried.png
+images\characters\me\me prol.png
+images\characters\me\me prol2 angry.png
+images\characters\me\me prol2 irritated.png
+images\characters\me\me prol2 sad.png
+images\characters\me\me prol2 sideways.png
+images\characters\me\me prol2 smile.png
+images\characters\me\me prol2 surprised.png
+images\characters\me\me prol2 worried.png
+images\characters\me\me prol2.png
+images\characters\me\me prolf irritated.png
+images\characters\me\me prolf sideways.png
+images\characters\me\me prolf smile.png
+images\characters\me\me prolf surprised.png
+images\characters\me\me prolf worried.png
+images\characters\me\me prolf.png
+images\characters\me\me prolp angry.png
+images\characters\me\me prolp grin.png
+images\characters\me\me prolp irritated.png
+images\characters\me\me prolp sideways.png
+images\characters\me\me prolp surprised.png
+images\characters\me\me prolp worried.png
+images\characters\me\me prolp.png
+images\characters\me\me surprised.png
+images\characters\me\me worried.png
+images\characters\me\me.png
+images\characters\neil\neil b1 acknowledge.png
+images\characters\neil\neil b1 angry.png
+images\characters\neil\neil b1 beam.png
+images\characters\neil\neil b1 grin.png
+images\characters\neil\neil b1 sideways.png
+images\characters\neil\neil b1 smile.png
+images\characters\neil\neil b1 smirk.png
+images\characters\neil\neil b1.png
+images\characters\neil\neil d1 acknowledge.png
+images\characters\neil\neil d1 angry.png
+images\characters\neil\neil d1 beam.png
+images\characters\neil\neil d1 grin.png
+images\characters\neil\neil d1 sideways.png
+images\characters\neil\neil d1 smile.png
+images\characters\neil\neil d1 smirk.png
+images\characters\neil\neil d1.png
+images\characters\neil\neil fh1 acknowledge.png
+images\characters\neil\neil fh1 angry.png
+images\characters\neil\neil fh1 grin.png
+images\characters\neil\neil fh1 sideways.png
+images\characters\neil\neil fh1 smile.png
+images\characters\neil\neil fh1 smirk.png
+images\characters\neil\neil fh1.png
+images\characters\neil\neil fh2 acknowledge.png
+images\characters\neil\neil fh2 angry.png
+images\characters\neil\neil fh2 grin.png
+images\characters\neil\neil fh2 sideways.png
+images\characters\neil\neil fh2 smile.png
+images\characters\neil\neil fh2 smirk.png
+images\characters\neil\neil fh2.png
+images\characters\neil\neil fs1 acknowledge.png
+images\characters\neil\neil fs1 angry.png
+images\characters\neil\neil fs1 beam.png
+images\characters\neil\neil fs1 grin.png
+images\characters\neil\neil fs1 sideways.png
+images\characters\neil\neil fs1 smile.png
+images\characters\neil\neil fs1 smirk.png
+images\characters\neil\neil fs1.png
+images\characters\neil\neil fs2 acknowledge.png
+images\characters\neil\neil fs2 angry.png
+images\characters\neil\neil fs2 beam.png
+images\characters\neil\neil fs2 grin.png
+images\characters\neil\neil fs2 sideways.png
+images\characters\neil\neil fs2 smile.png
+images\characters\neil\neil fs2 smirk.png
+images\characters\neil\neil fs2.png
+images\characters\neil\neil n1 acknowledge.png
+images\characters\neil\neil n1 angry.png
+images\characters\neil\neil n1 beam.png
+images\characters\neil\neil n1 grin.png
+images\characters\neil\neil n1 sideways.png
+images\characters\neil\neil n1 smile.png
+images\characters\neil\neil n1 smirk.png
+images\characters\neil\neil n1.png
+images\characters\neil\neil n2 acknowledge.png
+images\characters\neil\neil n2 angry.png
+images\characters\neil\neil n2 beam.png
+images\characters\neil\neil n2 grin.png
+images\characters\neil\neil n2 sideways.png
+images\characters\neil\neil n2 smile.png
+images\characters\neil\neil n2 smirk.png
+images\characters\neil\neil n2.png
+images\characters\neil\neil s1 acknowledge.png
+images\characters\neil\neil s1 angry.png
+images\characters\neil\neil s1 beam.png
+images\characters\neil\neil s1 grin.png
+images\characters\neil\neil s1 sideways.png
+images\characters\neil\neil s1 smile.png
+images\characters\neil\neil s1 smirk.png
+images\characters\neil\neil s1.png
+images\characters\neil\neil s2 acknowledge.png
+images\characters\neil\neil s2 angry.png
+images\characters\neil\neil s2 beam.png
+images\characters\neil\neil s2 grin.png
+images\characters\neil\neil s2 sideways.png
+images\characters\neil\neil s2 smile.png
+images\characters\neil\neil s2 smirk.png
+images\characters\neil\neil s2.png
+images\characters\neil\neil t1 acknowledge.png
+images\characters\neil\neil t1 angry.png
+images\characters\neil\neil t1 beam.png
+images\characters\neil\neil t1 grin.png
+images\characters\neil\neil t1 sideways.png
+images\characters\neil\neil t1 smile.png
+images\characters\neil\neil t1 smirk.png
+images\characters\neil\neil t1.png
+images\characters\neil\neil t2 acknowledge.png
+images\characters\neil\neil t2 angry.png
+images\characters\neil\neil t2 beam.png
+images\characters\neil\neil t2 grin.png
+images\characters\neil\neil t2 sideways.png
+images\characters\neil\neil t2 smile.png
+images\characters\neil\neil t2 smirk.png
+images\characters\neil\neil t2.png
+images\characters\neil\neil v1 acknowledge.png
+images\characters\neil\neil v1 angry.png
+images\characters\neil\neil v1 beam.png
+images\characters\neil\neil v1 grin.png
+images\characters\neil\neil v1 sideways.png
+images\characters\neil\neil v1 smile.png
+images\characters\neil\neil v1 smirk.png
+images\characters\neil\neil v1.png
+images\characters\neil\neil v2 angry.png
+images\characters\neil\neil v2 beam.png
+images\characters\neil\neil v2 grin.png
+images\characters\neil\neil v2 knowledge.png
+images\characters\neil\neil v2 sideways.png
+images\characters\neil\neil v2 smile.png
+images\characters\neil\neil v2 smirk.png
+images\characters\neil\neil v2.png
+images\characters\neil\neil.png
+images\characters\sofia\sofia p1 sad.png
+images\characters\sofia\sofia p1 smile.png
+images\characters\sofia\sofia p1 smirk.png
+images\characters\sofia\sofia p1 surprised.png
+images\characters\sofia\sofia p1.png
+images\characters\sofia\sofia p2 casual.png
+images\characters\sofia\sofia p2 sad.png
+images\characters\sofia\sofia p2 smile.png
+images\characters\sofia\sofia p2 smirk.png
+images\characters\sofia\sofia p2 surprised.png
+images\characters\sofia\sofia p2.png
+images\characters\vera\vera concerned.png
+images\characters\vera\vera grin.png
+images\characters\vera\vera smile.png
+images\characters\vera\vera surprised.png
+images\characters\vince\vince p1 angry.png
+images\characters\vince\vince p1 grin.png
+images\characters\vince\vince p1 sad.png
+images\characters\vince\vince p1 smile.png
+images\characters\vince\vince p1 smirk.png
+images\characters\vince\vince p1 stern.png
+images\characters\vince\vince p2 angry.png
+images\characters\vince\vince p2 grin.png
+images\characters\vince\vince p2 sad.png
+images\characters\vince\vince p2 smile.png
+images\characters\vince\vince p2 smirk.png
+images\characters\vince\vince p2 stern.png
+images\characters\vince\vince p2.png
+images\characters\vince\vince.png
+music\danger.mp3
+music\funaction.mp3
+music\main_theme.mp3
+music\romance.mp3
+music\sad.mp3
+music\suspense.mp3
+saves\1-1-LT1.save
+saves\1-2-LT1.save
+saves\1-3-LT1.save
+saves\1-4-LT1.save
+saves\1-5-LT1.save
+saves\1-6-LT1.save
+saves\_reload-2-LT1.save
+saves\auto-1-LT1.save
+saves\auto-10-LT1.save
+saves\auto-2-LT1.save
+saves\auto-3-LT1.save
+saves\auto-4-LT1.save
+saves\auto-5-LT1.save
+saves\auto-6-LT1.save
+saves\auto-7-LT1.save
+saves\auto-8-LT1.save
+saves\auto-9-LT1.save
+saves\navigation.json
+saves\persistent
+tl\None\common.rpym
+tl\None\common.rpymc

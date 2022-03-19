@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 1675, in script
+    show me prolpx
+Exception: Image 'me' does not accept attributes 'prolpx'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 1675, in script
+    show me prolpx
+  File "renpy/ast.py", line 1212, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "renpy/ast.py", line 1182, in show_imspec
+    atl=atl)
+  File "renpy/exports.py", line 742, in show
+    if not base.find_target() and renpy.config.missing_show:
+  File "renpy/display/image.py", line 412, in find_target
+    self.target = target._duplicate(a)
+  File "renpy/display/core.py", line 389, in _duplicate
+    args.extraneous()
+  File "renpy/display/core.py", line 266, in extraneous
+    " ".join(self.args),
+Exception: Image 'me' does not accept attributes 'prolpx'.
+
+Windows-10-10.0.19041
+Ren'Py 7.5.0.22030403n
+SpeakeasyNeil 1.0
+Mon Mar 14 23:44:48 2022
